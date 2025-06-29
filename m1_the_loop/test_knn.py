@@ -4,6 +4,9 @@ from collections import Counter
 import sys
 import os
 
+# NOTE: Run this file directly. python m1_the_loop/test_knn.py 
+# It's set up this way to be able to be run a little easier in context of the tutorial.
+
 # Make it possible to run the tests from the root of the project
 if os.path.basename(os.getcwd()) == 'm1_the_loop':
     sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
