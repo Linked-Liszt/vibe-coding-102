@@ -1,6 +1,6 @@
 # Vibe Coding 102: Applying Some Methodology to the Magic
 
-Built for the ANL Vibe Coding Hackathon 06-30-2025
+Built for the ANL Vibe Coding Hackathon 06-30-2025. **NOTE: For those accessing this live: It is not expected that you keep up with the talk. Feel free to file this away and try it out in the afternoon.**
 
 This repository contains a series of exercises designed to explore different aspects of using Large Language Models (LLMs) for coding tasks. The tutorial is broken down into three modules, each focusing on a specific skill or concept.
 
